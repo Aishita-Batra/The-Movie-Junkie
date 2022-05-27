@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\recommend",
+    "\\recommend\\migrations",
+    "\\recommend\\migrations\\__pycache__",
+    "\\recommend\\static",
+    "\\recommend\\static\\recommend",
+    "\\recommend\\static\\recommend\\css",
+    "\\recommend\\static\\recommend\\js",
+    "\\recommend\\templates",
+    "\\recommend\\__pycache__"
+  ],
+  "SelectedNode": "\\recommend\\apps.py",
+  "PreviewInSolutionExplorer": false
+}
